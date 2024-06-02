@@ -40,3 +40,58 @@ body{
     font-weight: 600;
     padding: 10px;
 }
+.section2{
+    height: 436px;
+    width: 1520px;
+    background-color: #F5F7FA;
+    padding: 40px 60px;
+    display: block;
+    /* align-items: center; */
+    justify-content: left;
+    margin-top: 200px;
+}
+.div-sec2{
+    height: 356px;
+    width: 1120px;
+    margin: 0px 12px;
+    /* text-align: left; */
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.ourpage{
+    height: 436px;
+    width: 1520px;
+    background-color: #F5F7FA;
+    padding: 40px 60px;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    margin-top: 500px;
+}
+.div3{
+    margin-top: 500px;
+    text-align: center;
+    display: block;
+}
+
+footer {
+    height: 300px;
+    width: auto;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: #FF3147; /* light gray background */
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .footer-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .footer-content p {
+    margin: 10px;
+    font-size: 14px;
+    color: #F5F7FA; /* dark gray text */
+  }
